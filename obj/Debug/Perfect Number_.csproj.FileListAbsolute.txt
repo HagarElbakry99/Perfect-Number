@@ -1,0 +1,8 @@
+D:\Programming Languages\Perfect Number_\Perfect Number_\bin\Debug\Perfect Number_.exe.config
+D:\Programming Languages\Perfect Number_\Perfect Number_\bin\Debug\Perfect Number_.exe
+D:\Programming Languages\Perfect Number_\Perfect Number_\bin\Debug\Perfect Number_.pdb
+D:\Programming Languages\Perfect Number_\Perfect Number_\obj\Debug\Perfect Number_.csproj.AssemblyReference.cache
+D:\Programming Languages\Perfect Number_\Perfect Number_\obj\Debug\Perfect Number_.csproj.SuggestedBindingRedirects.cache
+D:\Programming Languages\Perfect Number_\Perfect Number_\obj\Debug\Perfect Number_.csproj.CoreCompileInputs.cache
+D:\Programming Languages\Perfect Number_\Perfect Number_\obj\Debug\Perfect Number_.exe
+D:\Programming Languages\Perfect Number_\Perfect Number_\obj\Debug\Perfect Number_.pdb
